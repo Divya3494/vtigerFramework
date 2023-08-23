@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-08-22T11:43:36 AEST" name="Default suite" finished-at="2023-08-22T11:43:36 AEST" duration-ms="65">
+    <groups>
+    </groups>
+    <test started-at="2023-08-22T11:43:36 AEST" name="Default test" finished-at="2023-08-22T11:43:36 AEST" duration-ms="65">
+      <class name="mavenpracticepakage.MavenPracticeClass">
+        <test-method signature="hello()[pri:0, instance:mavenpracticepakage.MavenPracticeClass@702b8b12]" started-at="2023-08-22T11:43:36 AEST" name="hello" finished-at="2023-08-22T11:43:36 AEST" duration-ms="11" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- hello -->
+        <test-method signature="hi()[pri:0, instance:mavenpracticepakage.MavenPracticeClass@702b8b12]" started-at="2023-08-22T11:43:36 AEST" name="hi" finished-at="2023-08-22T11:43:36 AEST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- hi -->
+      </class> <!-- mavenpracticepakage.MavenPracticeClass -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
